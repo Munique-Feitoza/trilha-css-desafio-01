@@ -90,9 +90,10 @@ section {
   left: 324px;
   height: 500px;
 }
+
 #course-content p {
   font-size: 1.25rem;
-  margin: 16px 100px 24px;
+  margin: 50px 100px 50px;
 }
 #course-content span {
   color: #33A8DB;
