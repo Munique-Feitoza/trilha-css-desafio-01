@@ -83,6 +83,7 @@ section {
   font-weight: bold;
   text-transform: uppercase;
   letter-spacing: 4px;
+  cursor: pointer;
 }
 
 #course-content {
@@ -156,4 +157,5 @@ footer a {
   color: #33A8DB;
   font-weight: bold;
   text-decoration: none;
+  cursor: pointer;
 }
